@@ -29,7 +29,7 @@
   "homepage": "https://github.com/Mr-warriyo/Rem-Bot#readme",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "deepai": "^0.0.3",
     "discord.js": "^13.5.0",
     "discordjs-button-pagination": "^2.0.1",
